@@ -1,2 +1,2 @@
 # Windows terminal hotkey
-on Linux at least on a lot of distros you can do ctrl/strg + Alt + T and the terminal opens this programm brings that to Windows
+“in Linux you can open the terminal with ctrl / strg + Alt + T and This script will bring it also to Windows”
